@@ -1,0 +1,1 @@
+E:\projects\Android Studio Projects\The Big Nerd Ranch Guide\AndroidCourseResources\TestProvider\app\build\intermediates\classes\debug
