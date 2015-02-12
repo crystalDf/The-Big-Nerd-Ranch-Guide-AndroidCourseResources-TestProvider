@@ -1,4 +1,4 @@
-package com.bignerdranch.android.testprovider;
+package com.star.testprovider;
 
 import java.util.ArrayList;
 

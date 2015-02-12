@@ -5,9 +5,9 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "com.bignerdranch.android.testprovider"
+        applicationId "com.star.testprovider"
         minSdkVersion 8
-        targetSdkVersion 8
+        targetSdkVersion 21
     }
 
     buildTypes {
